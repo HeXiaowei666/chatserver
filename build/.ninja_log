@@ -1,0 +1,22 @@
+# ninja log v5
+7	493	1737702359490690598	src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o	fe817069392f343a
+5	2117	1737702361118944844	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	c559ce33b92e5e95
+3	201	1737702392943765324	/home/hexiaowei/cpp/chat/bin/ChatClient	15677b07c55bbd13
+6	490	1737702359492690911	src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o	b2eb699e5525ef0e
+6	560	1737702359562701858	src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o	d6363c32a2fc4b5
+5	500	1737702359497691694	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	ef5f0385864d1860
+6	751	1737702359752731572	src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o	3c53dfa21bd90dae
+10	4040	1737702363036243243	src/client/CMakeFiles/ChatClient.dir/main.cpp.o	4b685a33d241dc54
+4	3185	1737702362181110271	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	e5c7d5d7b6d1d5d0
+4	3308	1737702362306129713	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	60bbebbfeb82cbea
+4	583	1737703820377275365	src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o	5a310098bdfa0030
+583	1117	1737703820903285258	/home/hexiaowei/cpp/chat/bin/ChatServer	39d1bad402c0fb8d
+6	713	1737705460543420705	src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o	5a310098bdfa0030
+6	2282	1737705462112402741	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	c559ce33b92e5e95
+5	3215	1737705463041392127	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	e5c7d5d7b6d1d5d0
+6	2898	1737705800398448863	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	60bbebbfeb82cbea
+2898	3112	1737705800612447460	/home/hexiaowei/cpp/chat/bin/ChatServer	39d1bad402c0fb8d
+4	1998	1737706895320785463	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	c559ce33b92e5e95
+3	2917	1737706896234722542	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	e5c7d5d7b6d1d5d0
+4	3215	1737706896533701979	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	60bbebbfeb82cbea
+3215	3417	1737706896737687948	/home/hexiaowei/cpp/chat/bin/ChatServer	39d1bad402c0fb8d
